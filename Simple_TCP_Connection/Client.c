@@ -33,6 +33,5 @@ int main(){
 		exit(1);
 		}
 	printf("Connection established.\n");
-	}
 	return 0;
 	}
