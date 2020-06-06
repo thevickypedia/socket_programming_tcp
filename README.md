@@ -14,4 +14,4 @@ Steps:
 
 Connection established!
 
-Note: The ./client can also run without arguments in case of 127.0.0.1 ([localhost](https://stackoverflow.com/questions/7382602/what-is-the-difference-between-127-0-0-1-and-localhost))
+Note: Both ./server and ./client can run without arguments in case of [localhost](https://stackoverflow.com/questions/7382602/what-is-the-difference-between-127-0-0-1-and-localhost) (127.0.0.1) and the port number is also hard coded.
